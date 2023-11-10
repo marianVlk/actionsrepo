@@ -9,6 +9,7 @@ jobs:
             echo "helloworld"
             echo "Balamuc is something"
             echo "HopenShit"
+            echo "PLM"
       - name: print goodby
         run: echo "goodbye"
         
